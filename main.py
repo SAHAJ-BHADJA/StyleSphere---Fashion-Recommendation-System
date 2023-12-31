@@ -12,9 +12,6 @@ from sklearn.neighbors import NearestNeighbors
 from numpy.linalg import norm
 
 
-# c:\users\sahaj\appdata\local\pip\cache\wheels\82\35\dc\f88ec71edf2a5596bd72a8fa1b697277e0fcd3cde83048b8bf
-# c:\users\sahaj\appdata\local\pip\cache\wheels\47\4e\ee\509200acdf5c6215244fb5afb3c0846ce894649bf2be4f5e62
-
 # feature_list = np.array(pickle.load(open('vgg.pkl','rb')))
 # filenames = pickle.load(open('filenames.pkl','rb'))
 
